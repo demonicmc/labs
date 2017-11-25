@@ -3,5 +3,6 @@ namespace KeyOne
 {
     public interface BlackWidow
     {
+        
     }
 }

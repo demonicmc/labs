@@ -1,7 +1,7 @@
 ﻿using System;
 namespace KeyOne
 {
-    public interface Test2
+    public class Test2
     {
     }
 }
